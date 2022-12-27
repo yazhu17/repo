@@ -1,7 +1,7 @@
 object addition{
 	def add()
 	{
-		var i = (1 until 10)
+		var i = (5 until 10)
 	}
   def main(args: Array[String])
 	{
