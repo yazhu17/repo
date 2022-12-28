@@ -1,11 +1,11 @@
 object addition{
 	def add()
 	{
-		var i = (5 until 10)
+		var i = (2 until 10)
 	}
   def main(args: Array[String])
 	{
-		println(add.sum)
+		println(avg.sum)
     
 	}
  }
